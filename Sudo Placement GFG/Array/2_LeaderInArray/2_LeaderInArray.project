@@ -92,7 +92,5 @@
       </Completion>
     </Configuration>
   </Settings>
-  <VirtualDirectory Name="src">
-    <File Name="main.cpp"/>
-  </VirtualDirectory>
+  <VirtualDirectory Name="src"/>
 </CodeLite_Project>

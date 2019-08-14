@@ -47,3 +47,4 @@ int main()
 
 /* Hint: approach from left of array and store a max value, whenever left value is geater than max value
                 print the max value and set left value as max value. Repeat till the index 0.
+                */
