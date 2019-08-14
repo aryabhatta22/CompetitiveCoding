@@ -7,7 +7,8 @@
   <Project Name="4_ReverseArrayInGroups" Path="4_ReverseArrayInGroups/4_ReverseArrayInGroups.project" Active="No"/>
   <Project Name="5_RotateAnArray" Path="5_RotateAnArray/5_RotateAnArray.project" Active="No"/>
   <Project Name="6_RotateArray_Imp" Path="6_RotateArray/6_RotateArray.project" Active="No"/>
-  <Project Name="7_RemoveDuplicate_UnsortedArray" Path="7_RemoveDuplicate_UnsortedArray/7_RemoveDuplicate_UnsortedArray.project" Active="Yes"/>
+  <Project Name="7_RemoveDuplicate_UnsortedArray" Path="7_RemoveDuplicate_UnsortedArray/7_RemoveDuplicate_UnsortedArray.project" Active="No"/>
+  <Project Name="8_VectorImplementation" Path="8_VectorImplementation/8_VectorImplementation.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -19,6 +20,7 @@
       <Project Name="5_RotateAnArray" ConfigName="Debug"/>
       <Project Name="6_RotateArray_Imp" ConfigName="Debug"/>
       <Project Name="7_RemoveDuplicate_UnsortedArray" ConfigName="Debug"/>
+      <Project Name="8_VectorImplementation" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -30,6 +32,7 @@
       <Project Name="5_RotateAnArray" ConfigName="Release"/>
       <Project Name="6_RotateArray_Imp" ConfigName="Release"/>
       <Project Name="7_RemoveDuplicate_UnsortedArray" ConfigName="Release"/>
+      <Project Name="8_VectorImplementation" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
