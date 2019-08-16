@@ -5,6 +5,7 @@
  
  #include<iostream>
  #include<vector>         //must include header file
+ #include<algorithm>    //to be include for min_element() & max_element()
  
  using namespace std;
  
@@ -40,6 +41,9 @@
      cout<<"back(): "<<v1.back()<<endl;
      cout<<"data(): "<<*(v1.data())<<endl;
      cout<<"data(): "<<*(v1.data()+1)<<endl;
+     
+     cout<<"max_element(): "<<*max_element(v1.begin(),v1.end())<<endl;
+     cout<<"min_element(): "<<*min_element(v1.begin(),v1.end())<<endl;
      
                                             //modifiers
                                         
@@ -78,6 +82,8 @@
     
          for(int i=0;i<v1.size();i++)
          cout<<v1.at(i)<<" ";
+         
+         
 
 
      cout<<endl;
