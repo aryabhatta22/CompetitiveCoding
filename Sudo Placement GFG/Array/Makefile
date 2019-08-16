@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ 8_VectorImplementation - Debug ]----------"
-	@cd "8_VectorImplementation" && "$(MAKE)" -f  "8_VectorImplementation.mk"
+	@echo "----------Building project:[ _10_ClosestNumber - Debug ]----------"
+	@cd "10_ClosestNumber" && "$(MAKE)" -f  "_10_ClosestNumber.mk"
 clean:
-	@echo "----------Cleaning project:[ 8_VectorImplementation - Debug ]----------"
-	@cd "8_VectorImplementation" && "$(MAKE)" -f  "8_VectorImplementation.mk" clean
+	@echo "----------Cleaning project:[ _10_ClosestNumber - Debug ]----------"
+	@cd "10_ClosestNumber" && "$(MAKE)" -f  "_10_ClosestNumber.mk" clean

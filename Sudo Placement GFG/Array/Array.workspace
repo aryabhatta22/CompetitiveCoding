@@ -2,13 +2,15 @@
 <CodeLite_Workspace Name="Array" Database="" Version="10.0.0">
   <Project Name="0_ArrayImplementation" Path="implementation/implementation.project" Active="No"/>
   <Project Name="1_Immediate_smaller_element" Path="1_Immediate_smaller_element/1_Immediate_smaller_element.project" Active="No"/>
-  <Project Name="2_LeaderInArray_Imp" Path="2_LeaderInArray/2_LeaderInArray.project" Active="No"/>
+  <Project Name="2_LeaderInArray" Path="2_LeaderInArray/2_LeaderInArray.project" Active="No"/>
   <Project Name="3_ReverseAnArray" Path="3_ReverseAnArray/3_ReverseAnArray.project" Active="No"/>
   <Project Name="4_ReverseArrayInGroups" Path="4_ReverseArrayInGroups/4_ReverseArrayInGroups.project" Active="No"/>
   <Project Name="5_RotateAnArray" Path="5_RotateAnArray/5_RotateAnArray.project" Active="No"/>
-  <Project Name="6_RotateArray_Imp" Path="6_RotateArray/6_RotateArray.project" Active="No"/>
+  <Project Name="6_RotateArray" Path="6_RotateArray/6_RotateArray.project" Active="No"/>
   <Project Name="7_RemoveDuplicate_UnsortedArray" Path="7_RemoveDuplicate_UnsortedArray/7_RemoveDuplicate_UnsortedArray.project" Active="No"/>
-  <Project Name="8_VectorImplementation" Path="8_VectorImplementation/8_VectorImplementation.project" Active="Yes"/>
+  <Project Name="8_VectorImplementation" Path="8_VectorImplementation/8_VectorImplementation.project" Active="No"/>
+  <Project Name="9_PendulamArrangment" Path="9_PendulamArrangment/9_PendulamArrangment.project" Active="No"/>
+  <Project Name="_10_ClosestNumber" Path="10_ClosestNumber/10_ClosestNumber.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -21,6 +23,18 @@
       <Project Name="6_RotateArray_Imp" ConfigName="Debug"/>
       <Project Name="7_RemoveDuplicate_UnsortedArray" ConfigName="Debug"/>
       <Project Name="8_VectorImplementation" ConfigName="Debug"/>
+      <Project Name="9_PendulamArrangment" ConfigName="Debug"/>
+      <Project Name="_10_ClosestNumber" ConfigName="Debug"/>
+      <Project Name="1_Immediate_smaller_element" ConfigName="Debug"/>
+      <Project Name="2_LeaderInArray_Imp" ConfigName="Debug"/>
+      <Project Name="3_ReverseAnArray" ConfigName="Debug"/>
+      <Project Name="4_ReverseArrayInGroups" ConfigName="Debug"/>
+      <Project Name="5_RotateAnArray" ConfigName="Debug"/>
+      <Project Name="6_RotateArray_Imp" ConfigName="Debug"/>
+      <Project Name="7_RemoveDuplicate_UnsortedArray" ConfigName="Debug"/>
+      <Project Name="8_VectorImplementation" ConfigName="Debug"/>
+      <Project Name="9_PendulamArrangment" ConfigName="Debug"/>
+      <Project Name="_10_ClosestNumber" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -33,6 +47,18 @@
       <Project Name="6_RotateArray_Imp" ConfigName="Release"/>
       <Project Name="7_RemoveDuplicate_UnsortedArray" ConfigName="Release"/>
       <Project Name="8_VectorImplementation" ConfigName="Release"/>
+      <Project Name="9_PendulamArrangment" ConfigName="Release"/>
+      <Project Name="_10_ClosestNumber" ConfigName="Release"/>
+      <Project Name="1_Immediate_smaller_element" ConfigName="Release"/>
+      <Project Name="2_LeaderInArray_Imp" ConfigName="Release"/>
+      <Project Name="3_ReverseAnArray" ConfigName="Release"/>
+      <Project Name="4_ReverseArrayInGroups" ConfigName="Release"/>
+      <Project Name="5_RotateAnArray" ConfigName="Release"/>
+      <Project Name="6_RotateArray_Imp" ConfigName="Release"/>
+      <Project Name="7_RemoveDuplicate_UnsortedArray" ConfigName="Release"/>
+      <Project Name="8_VectorImplementation" ConfigName="Release"/>
+      <Project Name="9_PendulamArrangment" ConfigName="Release"/>
+      <Project Name="_10_ClosestNumber" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
