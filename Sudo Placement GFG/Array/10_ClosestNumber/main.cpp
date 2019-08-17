@@ -25,7 +25,7 @@
              cin>>value;
              arr.push_back(value);
          }
-         
+         leftIndex=0;
          rightIndex=size-1;
          while(leftIndex<=rightIndex){
              change=false;
@@ -34,7 +34,7 @@
              diff=abs(key-closestValue);
              
              if((mid-1>=0)&&(abs(key-arr[mid-1]))<diff){
-                 rightIndex=mid-1;
+                 rightIndex=mid;
                  change=true;
              }
             if((mid+1)<size && (abs( key-arr[mid+1]))<=diff){

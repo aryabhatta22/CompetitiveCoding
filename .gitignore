@@ -4,3 +4,4 @@
 *.txt
 *.cpp.o
 *.cpp.d
+*.session

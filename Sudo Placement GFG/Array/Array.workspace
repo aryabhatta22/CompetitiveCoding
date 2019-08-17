@@ -10,7 +10,12 @@
   <Project Name="7_RemoveDuplicate_UnsortedArray" Path="7_RemoveDuplicate_UnsortedArray/7_RemoveDuplicate_UnsortedArray.project" Active="No"/>
   <Project Name="8_VectorImplementation" Path="8_VectorImplementation/8_VectorImplementation.project" Active="No"/>
   <Project Name="9_PendulamArrangment" Path="9_PendulamArrangment/9_PendulamArrangment.project" Active="No"/>
-  <Project Name="_10_ClosestNumber" Path="10_ClosestNumber/10_ClosestNumber.project" Active="Yes"/>
+  <Project Name="_10_ClosestNumber" Path="10_ClosestNumber/10_ClosestNumber.project" Active="No"/>
+  <Project Name="_11_SortInSpecificOrder" Path="_11_SortInSpecificOrder/_11_SortInSpecificOrder.project" Active="No"/>
+  <Project Name="_12_ChocolateDistribution" Path="_12_ChocolateDistribution/_12_ChocolateDistribution.project" Active="No"/>
+  <Project Name="_14_CountDistinctElements" Path="_14_CountDistinctElements/_14_CountDistinctElements.project" Active="No"/>
+  <Project Name="_15_FindTheFine" Path="_15_FindTheFine/_15_FindTheFine.project" Active="No"/>
+  <Project Name="_16_EquilibriumPoint_Imp" Path="_16_EqulibriumPoint/_16_EqulibriumPoint.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -35,6 +40,11 @@
       <Project Name="8_VectorImplementation" ConfigName="Debug"/>
       <Project Name="9_PendulamArrangment" ConfigName="Debug"/>
       <Project Name="_10_ClosestNumber" ConfigName="Debug"/>
+      <Project Name="_11_SortInSpecificOrder" ConfigName="Debug"/>
+      <Project Name="_12_ChocolateDistribution" ConfigName="Debug"/>
+      <Project Name="_14_CountDistinctElements" ConfigName="Debug"/>
+      <Project Name="_15_FindTheFine" ConfigName="Debug"/>
+      <Project Name="_16_EquilibriumPoint_Imp" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -59,6 +69,11 @@
       <Project Name="8_VectorImplementation" ConfigName="Release"/>
       <Project Name="9_PendulamArrangment" ConfigName="Release"/>
       <Project Name="_10_ClosestNumber" ConfigName="Release"/>
+      <Project Name="_11_SortInSpecificOrder" ConfigName="Release"/>
+      <Project Name="_12_ChocolateDistribution" ConfigName="Release"/>
+      <Project Name="_14_CountDistinctElements" ConfigName="Release"/>
+      <Project Name="_15_FindTheFine" ConfigName="Release"/>
+      <Project Name="_16_EquilibriumPoint_Imp" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
